@@ -2,6 +2,8 @@
 
 Contract https://rinkeby.etherscan.io/address/0x60c64ADC7756B587B0Ad77C1Ef8a3eF1FcC82aaa
 
+- Don't forget to get a server on Moralis and add to the .env file
+
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 ## Preview
